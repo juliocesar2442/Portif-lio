@@ -1,0 +1,80 @@
+* { margin: 0;
+    padding: 5px;
+    text-decoration: none;
+    box-sizing: border-box;
+
+}
+.cidades {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.cartao {
+background-color: rgb(6, 46, 125);
+width: 20rem;
+height: 24rem;
+color: rgb(3, 255, 179); 
+font-weight: bold;
+box-shadow:  4px 4px 10px 4px rgba(245, 245, 245, 0.18);
+    -webkit-box-shadow: 7px 7px 5px 0px rgba(64,11,144,0.90);
+    -moz-box-shadow: 10px 10px 5px 3px rgba(64, 11, 144, 0.90);
+}
+body{
+    background-color: rgb(2, 2, 2);
+}
+
+.video{
+    
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+}
+.video1{
+height: 100%;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: aliceblue;
+    align-content: center;
+}
+
+h2{
+    color: aliceblue;
+    
+}
+h3{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+.video{
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+}
+.video2{
+    height: 85%;
+        display: flex;
+        justify-content: center;
+    }
+.video{
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    border-radius: 10%;
+}
+.video3{
+    height: 85%;
+    display: flex;
+    justify-content: center;
+    border-radius: 10%;
+}
+.img1{
+    height: 85%;
+    display: flex;
+    justify-content: center;
+    border-radius: 10%;
+}
